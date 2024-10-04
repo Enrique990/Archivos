@@ -1,0 +1,7 @@
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\etaln\Documents\Programacion\c#\Archivos\Archivos\obj\Debug\Archivos.pdb

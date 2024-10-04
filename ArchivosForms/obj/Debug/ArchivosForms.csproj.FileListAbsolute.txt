@@ -1,0 +1,10 @@
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\bin\Debug\ArchivosForms.exe.config
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\bin\Debug\ArchivosForms.exe
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\bin\Debug\ArchivosForms.pdb
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.Form1.resources
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.Properties.Resources.resources
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.csproj.GenerateResource.cache
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.exe
+C:\Users\etaln\Documents\Programacion\c#\Archivos\ArchivosForms\obj\Debug\ArchivosForms.pdb
